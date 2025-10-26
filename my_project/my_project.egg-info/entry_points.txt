@@ -1,0 +1,3 @@
+[console_scripts]
+my_project = usecases.main:main_function
+
